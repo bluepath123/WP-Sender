@@ -17,8 +17,9 @@
 
 ## 安装与配置指南
 1. **环境要求**：需要安装.Net9.0软件开发环境，本人系统Linux，理论上所有系统都可以运行。
-2. **API密钥配置**：获取并配置通义千问API密钥，确认WordPress开启了RPCXML接口，打开你的网站http://xxx.com/xmlrpc.php，不是404或者跳转到主页就没问题。
-3. 解压压缩包，进入到Send.cs文件内，按照提示把网站URL，用户名，密码，通义API填好就行。
+2. **API密钥配置**：获取并配置通义千问API密钥https://help.aliyun.com/zh/model-studio/developer-reference/use-qwen-by-calling-api，
+确认WordPress开启了RPCXML接口，打开你的网站http://xxx.com/xmlrpc.php，不是404或者跳转到主页就没问题。
+4. 解压压缩包，进入到Send.cs文件内，按照提示把网站URL，用户名，密码，通义API填好就行。
 
 ## 使用说明
 1. 解压压缩包。
